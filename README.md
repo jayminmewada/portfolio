@@ -14,7 +14,6 @@ This repository hosts the source code for my personal portfolio website.
    nvm install
    nvm use
 
-   **Or fnm**
    ```fnm
    fnm install
    fnm use
