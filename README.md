@@ -10,11 +10,11 @@ This repository hosts the source code for my personal portfolio website.
    cd portfolio
 
 2. **Install Node Version Manager: If you use nvm or fnm, execute the following commands**:
-   ```nvm
+   nvm:
    nvm install
    nvm use
 
-   ```fnm
+   fnm:
    fnm install
    fnm use
 
